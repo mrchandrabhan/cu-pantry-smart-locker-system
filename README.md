@@ -1,2 +1,3 @@
-# cu-pantry-smart-locker-system
-Smart Locker-based Pantry Management System with SSO, Inventory, and Temperature Compliance
+# CU Pantry Smart Locker System
+
+Smart locker-based pantry management system with SSO, inventory, and temperature monitoring.
